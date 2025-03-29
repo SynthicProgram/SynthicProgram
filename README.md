@@ -16,7 +16,7 @@ Now applying myself in full stack development as well, I'm excited to gain more 
 ## Check out my web portfolio: https://eric-portfolio-l7mb.onrender.com/
 
 - 🔭 Current Projects ... Mahjong Ultimate, Call of Chivalry, ZotMatch
-- 🌱 I’m currently learning ... Machine Learning/Computer Vision
+- 🌱 I’m currently learning ... Machine Learning/Computer Vision/Mobile Development
 - 🤔 I’m looking for help with ... Getting into the industry (internships and business ventures)
 
 <!--
