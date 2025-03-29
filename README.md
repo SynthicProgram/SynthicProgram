@@ -1,4 +1,4 @@
-## "May you always remember to enjoy the road, especially when it’s a hard one."
+"May you always remember to enjoy the road, especially when it’s a hard one."
 —Kobe Bryant
 
 ## Hello there! 👋
@@ -13,7 +13,7 @@ Now applying myself in full stack development as well, I'm excited to gain more 
 - Tools: *Git, *Node.js, *React, *Express.js, *PostgreSQL, *Tailwind/Bootstrap, *Axios, EJS, jQuery
 - Software: Slack, Trello, Google Workspace, Microsoft Office, Linux (Vim), Windows, MacOS
 
-Check out my web portfolio: https://eric-portfolio-l7mb.onrender.com/
+## Check out my web portfolio: https://eric-portfolio-l7mb.onrender.com/
 
 🔭 Current Projects ... Mahjong Ultimate, Call of Chivalry, ZotMatch
 🌱 I’m currently learning ... Machine Learning/Computer Vision
