@@ -1,5 +1,5 @@
 "May you always remember to enjoy the road, especially when it’s a hard one."
-##—Kobe Bryant
+## —Kobe Bryant
 
 ## Hello there! 👋
 
