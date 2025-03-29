@@ -3,7 +3,7 @@
 
 ## Hello there! 👋
 
-I'm an avid software and game developer in my second-year at UCI, majoring in Computer Science B.S.
+I'm an avid software and game developer in my second-year at UCI w/ 3.9 GPA, majoring in Computer Science B.S.
 
 I have years of experience establishing a game studio and community of over 15,000 members from the ground up with my development team. We successfully launched our cross-platform (PC, Mobile, Console, VR) video game in Spring 2024, where it reached 60K daily active and 300K monthly active users, currently with 5 million plays.
 
