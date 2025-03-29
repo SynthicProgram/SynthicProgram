@@ -19,8 +19,6 @@ Check out my web portfolio: https://eric-portfolio-l7mb.onrender.com/
 🌱 I’m currently learning ... Machine Learning/Computer Vision
 🤔 I’m looking for help with ... Getting into the industry (internships and business ventures)
 
-![crusaderhelm](https://github.com/user-attachments/assets/b4993798-bd26-4d1b-94bc-d532709f14e2)
-
 <!--
 **SynthicProgram/SynthicProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
