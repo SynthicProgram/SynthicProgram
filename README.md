@@ -9,7 +9,7 @@ I have years of experience establishing a game studio and community of over 15,0
 
 Now applying myself in full stack development as well, I'm excited to gain more experience and broaden my skills even further over the upcoming years! 
 
-- Languages: *C/C++, *Python, *SQL, *Javascript/Typescript, *HTML/CSS, Java, C#, Lua, BASH, R
+- Languages: *C/C++, *Python, *SQL, *Javascript/Typescript, *HTML/CSS, Java, C#, Lua
 - Tools: *Git, *Node.js, *React, *Express.js, *PostgreSQL, *Tailwind/Bootstrap, *Axios, EJS, jQuery
 - Software: Slack, Trello, Google Workspace, Microsoft Office, Linux (Vim), Windows, MacOS
 
@@ -17,7 +17,7 @@ Now applying myself in full stack development as well, I'm excited to gain more 
 
 - 🔭 Current Projects ... Mahjong Ultimate, Call of Chivalry, ZotMatch
 - 🌱 I’m currently learning ... Machine Learning/Computer Vision/Mobile Development
-- 🤔 I’m looking for help with ... Getting into the industry (internships and business ventures)
+- 🤔 I’m looking for help with ... Getting into the industry (internships and startup ventures)
 
 <!--
 **SynthicProgram/SynthicProgram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
